@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  menu
-//
-//  Created by YOUGG on 3/8/18.
-//  Copyright © 2018 YOUGG. All rights reserved.
-//
+
 
 import UIKit
 
